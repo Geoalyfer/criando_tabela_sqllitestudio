@@ -1,0 +1,12 @@
+Abrir o SQLiteStudio
+Clique no botão OpenSQlEditor (Alt+E)
+Escreva a query desejada
+
+CREATE TABLE aluno (
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+nome VARCHAR (100) NOT NULL,
+dt_criacao DATE
+)
+
+Execute a query ou F9
+
